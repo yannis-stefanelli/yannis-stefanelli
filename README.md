@@ -5,7 +5,6 @@
 - 💬 Ask me about any question in C, i'll be glad to answer you !
 - 📫 You can contact me here : <br/>
   https://yannis-stefanelli.fr <br/>
-  akaidenki@gmail.com <br/>
   Discord : ENA#4536 <br/>
   
 
