@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/ProTubeVR">ProtubeVR's</a> Companion app
 ## Languages i enjoy coding in 
-- C/C++, JavaScript and it's variants ❤️
+- `C`, `C++`, `JavaScript` and it's variants ❤️
 
 ## What i like to do on my spare time
 - 🎨 SFML <a href="https://github.com/stars/Ena-Shepherd/lists/graphical-projects">Graphical projects</a>
