@@ -8,7 +8,8 @@
 <br/>
 
 ## Languages i enjoy coding in 
-- `C`, `C++`, `JavaScript` and it's variants ❤️ <br/><br/>
+
+`C`, `C++`, `JavaScript` and it's variants ❤️ <br/><br/>
 
 ## What i like to do on my spare time
 - 🎨 SFML <a href="https://github.com/stars/Ena-Shepherd/lists/graphical-projects">Graphical projects</a>
@@ -28,5 +29,5 @@ as well as Fractal patterns, and <a href="https://www.youtube.com/watch?v=IK7nBO
 </p>
 
 ## Contact me
-- 🎮 <a href="https://discordapp.com/users/416281651245613056">Discord</a>
-- 📫 <a href="https://yannis-stefanelli.fr">Homepage </a>
+|🎮 <a href="https://discordapp.com/users/416281651245613056">Discord</a> | 📫 <a href="https://yannis-stefanelli.fr">Homepage </a>|
+|-------------------------------------------------------------------------|---------------------------------------------------------|
