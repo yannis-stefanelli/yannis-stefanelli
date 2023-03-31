@@ -2,14 +2,14 @@
 
 ## Current Activity
 <p align="center">
-  <img src="https://scontent-cdg2-1.xx.fbcdn.net/v/t39.30808-6/242063303_1219039205262831_3286381386161493500_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=t2zL61NqW8kAX8jSGOq&_nc_ht=scontent-cdg2-1.xx&oh=00_AfA2tW4CemmoTseSEsylw6JDlNRJ8qr9_1jUtccxOGXp5A&oe=6414067E"/>
+  <img src="https://www.protubevr.com/img/cms/Produit_MagTube/Description/1_1.png"/><br/>
   🔭 I’m currently working on <a href="https://github.com/ProTubeVR">ProtubeVR's</a> Companion app <br/>
 </p>
 <br/>
 
 ## Languages i enjoy coding in 
 
-`C`, `C++`, `JavaScript` and it's variants ❤️ <br/><br/>
+`C`, `C++`, `JavaScript` and it's variants ❤️<br/><br/>
 
 ## What i like to do on my spare time
 - 🎨 SFML <a href="https://github.com/stars/Ena-Shepherd/lists/graphical-projects">Graphical projects</a>
