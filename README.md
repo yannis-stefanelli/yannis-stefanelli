@@ -13,7 +13,6 @@
 
 ## What i like to do on my spare time
 - 🎨 SFML <a href="https://github.com/stars/Ena-Shepherd/lists/graphical-projects">Graphical projects</a>
-- 👾 Setting up FabricMC mods with <a href="https://github.com/NucleoidMC">Nucleoid</a>
 - 🌱 Learning new ways to code
 - ⭐ A bit of JavaScript, either React-app, or raw scripting
 ## More about me
